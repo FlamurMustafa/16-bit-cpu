@@ -1,0 +1,13 @@
+*Project of a 16 bit cpu done with the help of AMDs and Xilinx application called Vivado
+*It was implemented as part of the Computer Architecture Course in the University of Prishtina, Computer Engineering Department
+
+
+-The cpu was based on FPGA and it's a Single Cycle Datapath MIPS based which supports the instructions:
+
+	AND, OR, ADD, SUB, LW and Beq 
+
+-The source code is located at the Code/ directory and the testing part is found at TestBench/
+
+-To run it, you have install the Vivado program run it just like any other Vivado project 
+
+-The project as of 2024-08-09 needs some work to be fully finished, and extended to Multi Cycle Datapath
